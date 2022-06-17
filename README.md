@@ -12,18 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=9cd5c2&height=270&section=header&text=Hi,%20there%20%20&fontSize=75&fontColor=9cd5c2&fontAlign=60&fontAlignY=35&desc=Welcome%20to%20my%20github!&descSize=30&descAlign=60&descAlignY=60)
 <div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9cd5c2&height=270&section=header&text=Hi,%20there&fontSize=75&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20github!&descSize=30&descAlign=50&descAlignY=57" />
   <h2>👋 Intruduction</h2>
   <h3>I'm studying to become a ✨Web Front-End Developer✨.</h3>
   <h3>I'm studying Algorithm using Python.</h3>
   <h3>And I also interest in Data Base using MySQL and OracleSQL.</h3>
-  
-  <br/><br/>
-  
-  ![zosunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zosunny&show_icons=true&theme=merko)
-  <br/><br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zosunny&layout=compact&theme=radical)
   
   <br/><br/>
   
@@ -41,5 +35,12 @@ Here are some ideas to get you started:
   
   <h2>📖 Study Blog</h2>
   <a href="https://velog.io/@hrzo1617"><img src="https://img.shields.io/badge/Tech Vlog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+  
+  <br/><br/>
+  <!--
+  ![zosunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zosunny&show_icons=true&theme=merko)
+  -->
+  <br/><br/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zosunny&layout=compact&theme=radical)
 
 </div>
