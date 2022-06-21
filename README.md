@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=66E9FF&height=270&section=header&text=Hi,%20there&fontSize=75&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20github!&descSize=30&descAlign=50&descAlignY=57" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FC&height=270&section=header&text=Hi,%20there&fontSize=75&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20github!&descSize=30&descAlign=50&descAlignY=57" />
   <h2>👋 Intruduction</h2>
   <h3>I'm studying to become a ✨Web Front-End Developer✨.</h3>
   <h3>I'm studying Algorithm using Python.</h3>
@@ -22,14 +22,16 @@ Here are some ideas to get you started:
   <br/><br/>
   
   <h2>🪄 Skills in study</h2>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
   
   <br/><br/>
   
