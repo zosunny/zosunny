@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h2>👋 Intruduction</h2>
   <h3>I'm studying to become a ✨Web Front-End Developer✨.</h3>
   <h3>I'm studying Algorithm using Python.</h3>
-  <h3>And I also interest in Data Base using MySQL and OracleSQL.</h3>
+  <h3>And I also interest in Data Base using MySQL and Oracle.</h3>
   
   <br/><br/>
   
