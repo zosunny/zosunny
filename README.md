@@ -38,11 +38,11 @@ Here are some ideas to get you started:
   <h2>📖 Study Blog</h2>
   <a href="https://velog.io/@hrzo1617"><img src="https://img.shields.io/badge/Tech Vlog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
   
-  <br/><br/>
-  <!--
-  ![zosunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zosunny&show_icons=true&theme=merko)
-  -->
-  <br/><br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zosunny&layout=compact&theme=radical)
+ // <br/><br/>
+ // <!--
+ // ![zosunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zosunny&show_icons=true&theme=merko)
+ // -->
+ // <br/><br/>
+ // ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zosunny&layout=compact&theme=radical)
 
 </div>
