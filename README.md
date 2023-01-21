@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <!--  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>  -->
   
@@ -48,4 +49,11 @@ Here are some ideas to get you started:
  <br/><br/>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zosunny&layout=compact&theme=radical)
 
+ <br/><br/>
+
+  <h2>📚 BOJ</h2>
+  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zsunny)](https://solved.ac/zsunny)
+  
 </div>
