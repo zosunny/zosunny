@@ -16,8 +16,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FC&height=270&section=header&text=Hi,%20there&fontSize=75&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20github!&descSize=30&descAlign=50&descAlignY=57" />
   <h2>👋 Intruduction</h2>
   <h3>I'm studying to become a ✨Web Developer✨.</h3>
-  <h3>I'm studying Algorithm using Python.</h3>
-  <h3>And I also interest in DataBase using MySQL and Oracle.</h3>
+  <h3>I'm studying Algorithm using Python and Java.</h3>
+  <h3>And I also interest in DataBase using MySQL.</h3>
   
   <br/><br/>
   
