@@ -13,15 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
+<!--
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FC&height=270&section=header&text=Hi,%20there&fontSize=75&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20github!&descSize=30&descAlign=50&descAlignY=57" />
+
   <h2>👋 Intruduction</h2>
-  <h3>I'm studying to become a ✨Web Developer✨.</h3>
-  <h3>I'm studying Algorithm using Python and Java.</h3>
-  <h3>And I also interest in DataBase using MySQL.</h3>
+  <h3>I'm studying to become a Web Developer</h3>
+  <h3>I'm studying Algorithm using Python and Java</h3>
+  <h3>And I also interest in DataBase using MySQL</h3>
+-->
   
-  <br/><br/>
+<br/>
   
-  <h2>🪄 Skills in study</h2>
+  <h2>Skills in study</h2>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -39,7 +42,7 @@ Here are some ideas to get you started:
   
   <br/><br/>
   
-  <h2>📖 Study Blog</h2>
+  <h2>Study Blog</h2>
   <a href="https://velog.io/@hrzo1617"><img src="https://img.shields.io/badge/Tech Vlog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
   <a href="https://dev-zsunny.tistory.com"><img src="https://img.shields.io/badge/Tech Vlog-000000?style=flat&logo=Tistory&logoColor=orange"/></a>
   
@@ -52,7 +55,7 @@ Here are some ideas to get you started:
 
  <br/><br/>
 
-  <h2>📚 BOJ</h2>
+  <h2>Porblem Solving</h2>
   
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zsunny)](https://solved.ac/zsunny)
