@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   
   <h2>📖 Study Blog</h2>
   <a href="https://velog.io/@hrzo1617"><img src="https://img.shields.io/badge/Tech Vlog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+  <a href="https://dev-zsunny.tistory.com"><img src="https://img.shields.io/badge/Tech Vlog-000000?style=flat&logo=Tistory&logoColor=orange"/></a>
   
  <br/><br/>
  <!--
